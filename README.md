@@ -14,7 +14,7 @@ This project is a Spring Boot-based REST API for user authentication and authori
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/greenstitch-auth-api.git
+   git clone https://github.com/vivekC2w/GreenStichBackend.git
    ```
 
 2. Navigate to the project directory:
